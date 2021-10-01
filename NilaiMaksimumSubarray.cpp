@@ -1,6 +1,7 @@
 /* File     : NilaiMaksimumSubArray.cpp */
 /* Nama     : Musthafa Kamal Faishal */
 /* NIM      : 24060118120042 */
+/* Tanggal  : 1 Oktober 2021 */
 /* Deskripsi: Menemukan subarray bersebelahan (berisi setidaknya satu angka) yang memiliki */
 /*            jumlah terbesar dan kembalikan hasilnya */
 
